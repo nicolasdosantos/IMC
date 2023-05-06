@@ -60,5 +60,7 @@ main #form{
 }
 
 main p{
-    text 
+    text-align: center;
+    margin: 34px;
+    margin-right: 281px;
 }
